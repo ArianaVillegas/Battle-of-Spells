@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Hechizos.dir/main.cpp.o CMakeFiles/Hechizos.dir/Hechizos.cpp.o  -o Hechizos 

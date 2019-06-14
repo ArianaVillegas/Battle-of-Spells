@@ -1,0 +1,3 @@
+/home/ariana/UTEC/POO 2/CLASES/Proyecto/Hechizos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ariana/UTEC/POO 2/CLASES/Proyecto/Hechizos/cmake-build-debug/CMakeFiles/Hechizos.dir
+/home/ariana/UTEC/POO 2/CLASES/Proyecto/Hechizos/cmake-build-debug/CMakeFiles/edit_cache.dir
