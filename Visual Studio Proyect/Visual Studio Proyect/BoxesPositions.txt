@@ -1,0 +1,6 @@
+Green Middle: 750 420
+Green Left: 400 615
+Red Left: 350 740
+Red Middle: 870 680
+Blue Left: 1180 475
+Blue Right: 1260 380	
